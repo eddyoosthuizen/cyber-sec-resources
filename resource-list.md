@@ -15,3 +15,13 @@ Volatility3 Memory Analysis Tool - https://github.com/volatilityfoundation/volat
 Volatility3 Cheat Sheet: https://blog.onfvp.com/post/volatility-cheatsheet/
 
 FREE Course on DFIR - https://training.sleuthkitlabs.com/courses/intro-to-divide-and-conquer
+
+Open-source Network Analysis and Packet Capture System - https://github.com/arkime/arkime
+
+My man Florian - https://github.com/Neo23x0?tab=repositories
+
+New Zeland CERT Publications - https://www.cert.govt.nz/insights-and-research/
+
+IppSec YT CHannel - https://www.youtube.com/@ippsec
+
+Awesome IR - https://github.com/meirwah/awesome-incident-response
